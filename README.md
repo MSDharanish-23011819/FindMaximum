@@ -55,8 +55,12 @@ return max
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
 ![Screenshot 2023-12-21 183659](https://github.com/MSDharanish-23011819/FindMaximum/assets/147139454/e7818293-cfd2-4fcc-9888-99e2cfa9e502)
+
 ii)	# To find the maximum marks using the list method max().
 ![Screenshot 2023-12-21 183940](https://github.com/MSDharanish-23011819/FindMaximum/assets/147139454/b38fcf71-1af5-4001-9667-cce751246f0e)
+
+
+
 iii) # To find the maximum marks without using builtin functions.
 ![Screenshot 2023-12-21 184043](https://github.com/MSDharanish-23011819/FindMaximum/assets/147139454/9a2f511b-a6e4-4af5-a6d6-80f7d71984cd)
 
